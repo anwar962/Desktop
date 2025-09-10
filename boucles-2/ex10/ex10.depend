@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757357222 source:c:\users\pc\desktop\boucles-2\ex10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
